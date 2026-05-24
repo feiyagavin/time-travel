@@ -1,0 +1,13 @@
+{
+  "name": "time-travel-app",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "mysql2": "^3.22.3"
+  }
+}
